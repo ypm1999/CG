@@ -1,0 +1,41 @@
+void main_plain_texture_vp(
+        // Vertex Inputs
+        in float4 position        : POSITION,    // Vertex position in model space
+
+        // Outputs
+        out float4 oPosition    : POSITION,    // Transformed vertex position
+
+        // Model Level Inputs
+        uniform float4x4 worldViewProj)
+{
+    // Calculate output position
+    oPosition = mul(worldViewProj, position);
+}
+
+void main_plain_texture_fp(
+        // Pixel Inputs
+        in float4 position        : POSITION,
+             
+        // Outputs
+        out float4 color    : COLOR,    // Output color we want to write
+             
+        // Model Level Inputs
+        uniform sampler2D texture)        // Texture we're going to use
+{
+     color.r = 0.5;
+     color.g = 0.8;
+     color.b = 0.0;
+     color.a = 0.0;
+}
+
+float4 main_fp(in float3 TexelPos : TEXCOORD0) : COLOR
+ {
+     float4 oColor;
+ 
+     oColor.r = 0.5;
+     oColor.g = 0.0;
+     oColor.b = 0.5;
+     oColor.a = 0.0;
+ 
+     return oColor;
+ }

@@ -1,0 +1,2594 @@
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: Creating resource group BSPWorld
+16:34:14: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:14: Creating resource group Essential
+16:34:14: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Creating resource group Tests
+16:34:14: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: Loading library .\RenderSystem_Direct3D9.dll
+16:34:14: Installing plugin: D3D9 RenderSystem
+16:34:14: D3D9 : Direct3D9 Rendering Subsystem created.
+16:34:14: D3D9: Driver Detection Starts
+16:34:14: D3D9: Driver Detection Ends
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\RenderSystem_Direct3D11.dll
+16:34:14: Installing plugin: D3D11 RenderSystem
+16:34:14: D3D11: Direct3D11 Rendering Subsystem created.
+16:34:14: D3D11: Driver Detection Starts
+16:34:14: D3D11: "Intel(R) UHD Graphics 620"
+16:34:14: D3D11: "NVIDIA GeForce MX150"
+16:34:14: D3D11: "Microsoft Basic Render Driver (software)"
+16:34:14: D3D11: Driver Detection Ends
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\RenderSystem_GL.dll
+16:34:14: Installing plugin: GL RenderSystem
+16:34:14: OpenGL Rendering Subsystem created.
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\RenderSystem_GL3Plus.dll
+16:34:14: Installing plugin: GL 3+ RenderSystem
+16:34:14: OpenGL 3+ Rendering Subsystem created.
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_ParticleFX.dll
+16:34:14: Installing plugin: ParticleFX
+16:34:14: Particle Emitter Type 'Point' registered
+16:34:14: Particle Emitter Type 'Box' registered
+16:34:14: Particle Emitter Type 'Ellipsoid' registered
+16:34:14: Particle Emitter Type 'Cylinder' registered
+16:34:14: Particle Emitter Type 'Ring' registered
+16:34:14: Particle Emitter Type 'HollowEllipsoid' registered
+16:34:14: Particle Affector Type 'LinearForce' registered
+16:34:14: Particle Affector Type 'ColourFader' registered
+16:34:14: Particle Affector Type 'ColourFader2' registered
+16:34:14: Particle Affector Type 'ColourImage' registered
+16:34:14: Particle Affector Type 'ColourInterpolator' registered
+16:34:14: Particle Affector Type 'Scaler' registered
+16:34:14: Particle Affector Type 'Rotator' registered
+16:34:14: Particle Affector Type 'DirectionRandomiser' registered
+16:34:14: Particle Affector Type 'DeflectorPlane' registered
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_BSPSceneManager.dll
+16:34:14: Installing plugin: BSP Scene Manager
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Codec_STBI.dll
+16:34:14: stb_image - v2.23 - public domain image loader
+16:34:14: Supported formats: jpeg,jpg,png,bmp,psd,tga,gif,pic,ppm,pgm,hdr
+16:34:14: Loading library .\Plugin_PCZSceneManager.dll
+16:34:14: Installing plugin: Portal Connected Zone Scene Manager
+16:34:14: PCZone Factory Type 'ZoneType_Default' registered
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_OctreeZone.dll
+16:34:14: Installing plugin: Octree Zone Factory
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_OctreeSceneManager.dll
+16:34:14: Installing plugin: Octree Scene Manager
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_DotScene.dll
+16:34:14: Installing plugin: DotScene Loader
+16:34:14: Plugin successfully installed
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Uninstalling plugin: DotScene Loader
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_DotScene
+16:34:14: Uninstalling plugin: Octree Scene Manager
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_OctreeSceneManager
+16:34:14: Uninstalling plugin: Octree Zone Factory
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_OctreeZone
+16:34:14: Uninstalling plugin: Portal Connected Zone Scene Manager
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_PCZSceneManager
+16:34:14: Unloading library .\Codec_STBI
+16:34:14: Uninstalling plugin: BSP Scene Manager
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_BSPSceneManager
+16:34:14: Uninstalling plugin: ParticleFX
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_ParticleFX
+16:34:14: Uninstalling plugin: GL 3+ RenderSystem
+16:34:14: *** Stopping Win32GL Subsystem ***
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\RenderSystem_GL3Plus
+16:34:14: Uninstalling plugin: GL RenderSystem
+16:34:14: *** Stopping Win32GL Subsystem ***
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\RenderSystem_GL
+16:34:14: Uninstalling plugin: D3D11 RenderSystem
+16:34:14: D3D11: Shutting down cleanly.
+16:34:14: D3D11: Direct3D11 Rendering Subsystem destroyed.
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\RenderSystem_Direct3D11
+16:34:14: Uninstalling plugin: D3D9 RenderSystem
+16:34:14: D3D9 : Shutting down cleanly.
+16:34:14: D3D9 : Direct3D9 Rendering Subsystem destroyed.
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\RenderSystem_Direct3D9
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: Creating resource group BSPWorld
+16:34:14: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:14: Creating resource group Essential
+16:34:14: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Creating resource group Tests
+16:34:14: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:14: Mesh: Loading sphere.mesh.
+16:34:14: Material BaseWhite Technique 0 is not supported. NULL RenderSystem
+16:34:14: Warning: material BaseWhite has no supportable Techniques and will be blank. Explanation: 
+NULL RenderSystem
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: Creating resource group BSPWorld
+16:34:14: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:14: Creating resource group Essential
+16:34:14: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Creating resource group Tests
+16:34:14: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:14: Mesh: Loading sphere.mesh.
+16:34:14: Material BaseWhite Technique 0 is not supported. NULL RenderSystem
+16:34:14: Warning: material BaseWhite has no supportable Techniques and will be blank. Explanation: 
+NULL RenderSystem
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: Loading library .\RenderSystem_Direct3D9.dll
+16:34:14: Installing plugin: D3D9 RenderSystem
+16:34:14: D3D9 : Direct3D9 Rendering Subsystem created.
+16:34:14: D3D9: Driver Detection Starts
+16:34:14: D3D9: Driver Detection Ends
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\RenderSystem_Direct3D11.dll
+16:34:14: Installing plugin: D3D11 RenderSystem
+16:34:14: D3D11: Direct3D11 Rendering Subsystem created.
+16:34:14: D3D11: Driver Detection Starts
+16:34:14: D3D11: "Intel(R) UHD Graphics 620"
+16:34:14: D3D11: "NVIDIA GeForce MX150"
+16:34:14: D3D11: "Microsoft Basic Render Driver (software)"
+16:34:14: D3D11: Driver Detection Ends
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\RenderSystem_GL.dll
+16:34:14: Installing plugin: GL RenderSystem
+16:34:14: OpenGL Rendering Subsystem created.
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\RenderSystem_GL3Plus.dll
+16:34:14: Installing plugin: GL 3+ RenderSystem
+16:34:14: OpenGL 3+ Rendering Subsystem created.
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_ParticleFX.dll
+16:34:14: Installing plugin: ParticleFX
+16:34:14: Particle Emitter Type 'Point' registered
+16:34:14: Particle Emitter Type 'Box' registered
+16:34:14: Particle Emitter Type 'Ellipsoid' registered
+16:34:14: Particle Emitter Type 'Cylinder' registered
+16:34:14: Particle Emitter Type 'Ring' registered
+16:34:14: Particle Emitter Type 'HollowEllipsoid' registered
+16:34:14: Particle Affector Type 'LinearForce' registered
+16:34:14: Particle Affector Type 'ColourFader' registered
+16:34:14: Particle Affector Type 'ColourFader2' registered
+16:34:14: Particle Affector Type 'ColourImage' registered
+16:34:14: Particle Affector Type 'ColourInterpolator' registered
+16:34:14: Particle Affector Type 'Scaler' registered
+16:34:14: Particle Affector Type 'Rotator' registered
+16:34:14: Particle Affector Type 'DirectionRandomiser' registered
+16:34:14: Particle Affector Type 'DeflectorPlane' registered
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_BSPSceneManager.dll
+16:34:14: Installing plugin: BSP Scene Manager
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Codec_STBI.dll
+16:34:14: stb_image - v2.23 - public domain image loader
+16:34:14: Supported formats: jpeg,jpg,png,bmp,psd,tga,gif,pic,ppm,pgm,hdr
+16:34:14: Loading library .\Plugin_PCZSceneManager.dll
+16:34:14: Installing plugin: Portal Connected Zone Scene Manager
+16:34:14: PCZone Factory Type 'ZoneType_Default' registered
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_OctreeZone.dll
+16:34:14: Installing plugin: Octree Zone Factory
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_OctreeSceneManager.dll
+16:34:14: Installing plugin: Octree Scene Manager
+16:34:14: Plugin successfully installed
+16:34:14: Loading library .\Plugin_DotScene.dll
+16:34:14: Installing plugin: DotScene Loader
+16:34:14: Plugin successfully installed
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: MaterialSerializer : writing material Material Name to queue.
+16:34:14: MaterialSerializer : parsing texture layer.
+16:34:14: MaterialSerializer : parsing texture layer.
+16:34:14: MaterialSerializer : done.
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Uninstalling plugin: DotScene Loader
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_DotScene
+16:34:14: Uninstalling plugin: Octree Scene Manager
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_OctreeSceneManager
+16:34:14: Uninstalling plugin: Octree Zone Factory
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_OctreeZone
+16:34:14: Uninstalling plugin: Portal Connected Zone Scene Manager
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_PCZSceneManager
+16:34:14: Unloading library .\Codec_STBI
+16:34:14: Uninstalling plugin: BSP Scene Manager
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_BSPSceneManager
+16:34:14: Uninstalling plugin: ParticleFX
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\Plugin_ParticleFX
+16:34:14: Uninstalling plugin: GL 3+ RenderSystem
+16:34:14: *** Stopping Win32GL Subsystem ***
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\RenderSystem_GL3Plus
+16:34:14: Uninstalling plugin: GL RenderSystem
+16:34:14: *** Stopping Win32GL Subsystem ***
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\RenderSystem_GL
+16:34:14: Uninstalling plugin: D3D11 RenderSystem
+16:34:14: D3D11: Shutting down cleanly.
+16:34:14: D3D11: Direct3D11 Rendering Subsystem destroyed.
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\RenderSystem_Direct3D11
+16:34:14: Uninstalling plugin: D3D9 RenderSystem
+16:34:14: D3D9 : Shutting down cleanly.
+16:34:14: D3D9 : Direct3D9 Rendering Subsystem destroyed.
+16:34:14: Plugin successfully uninstalled
+16:34:14: Unloading library .\RenderSystem_Direct3D9
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: stb_image - v2.23 - public domain image loader
+16:34:14: Supported formats: jpeg,jpg,png,bmp,psd,tga,gif,pic,ppm,pgm,hdr
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: stb_image - v2.23 - public domain image loader
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: Creating resource group BSPWorld
+16:34:14: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:14: Creating resource group Essential
+16:34:14: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Creating resource group Tests
+16:34:14: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: Creating resource group BSPWorld
+16:34:14: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:14: Creating resource group Essential
+16:34:14: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Creating resource group Tests
+16:34:14: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:14: Creating resource group EmptyGroup
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: Creating resource group BSPWorld
+16:34:14: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:14: Creating resource group Essential
+16:34:14: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Creating resource group Tests
+16:34:14: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:14: Creating resource group General
+16:34:14: Creating resource group OgreInternal
+16:34:14: Creating resource group OgreAutodetect
+16:34:14: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:14: Registering ResourceManager for type Material
+16:34:14: Registering ResourceManager for type Mesh
+16:34:14: Registering ResourceManager for type Skeleton
+16:34:14: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:14: ArchiveFactory for archive type FileSystem registered.
+16:34:14: ArchiveFactory for archive type Zip registered.
+16:34:14: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:14: DDS codec registering
+16:34:14: ETC codec registering
+16:34:14: Registering ResourceManager for type HighLevelGpuProgram
+16:34:14: Registering ResourceManager for type Compositor
+16:34:14: MovableObjectFactory for type 'Entity' registered.
+16:34:14: MovableObjectFactory for type 'Light' registered.
+16:34:14: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:14: MovableObjectFactory for type 'ManualObject' registered.
+16:34:14: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:14: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:14: *-*-* OGRE Initialising
+16:34:14: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:14: Creating resource group BSPWorld
+16:34:14: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:14: Creating resource group Essential
+16:34:14: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:14: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:14: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:14: Creating resource group Tests
+16:34:14: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:14: Mesh: Loading robot.mesh.
+16:34:14: Skeleton: Loading robot.skeleton
+16:34:14: Material BaseWhite Technique 0 is not supported. NULL RenderSystem
+16:34:14: Warning: material BaseWhite has no supportable Techniques and will be blank. Explanation: 
+NULL RenderSystem
+16:34:14: *-*-* OGRE Shutdown
+16:34:14: Unregistering ResourceManager for type Compositor
+16:34:14: Unregistering ResourceManager for type Skeleton
+16:34:14: Unregistering ResourceManager for type Mesh
+16:34:14: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:14: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: Note: Mesh instance 'facial.mesh.clone.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: Exporting bones..
+16:34:15: Bones exported.
+16:34:15: Exporting animations, count=5
+16:34:15: Exporting animation: Run
+16:34:15: Animation exported.
+16:34:15: Exporting animation: Sneak
+16:34:15: Animation exported.
+16:34:15: Exporting animation: Stagger
+16:34:15: Animation exported.
+16:34:15: Exporting animation: Turn
+16:34:15: Animation exported.
+16:34:15: Exporting animation: Walk
+16:34:15: Animation exported.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: Exporting bones..
+16:34:15: Bones exported.
+16:34:15: Exporting animations, count=5
+16:34:15: Exporting animation: Run
+16:34:15: Animation exported.
+16:34:15: Exporting animation: Sneak
+16:34:15: Animation exported.
+16:34:15: Exporting animation: Stagger
+16:34:15: Animation exported.
+16:34:15: Exporting animation: Turn
+16:34:15: Animation exported.
+16:34:15: Exporting animation: Walk
+16:34:15: Animation exported.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream ../Media/models/facial.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Exporting edge lists...
+16:34:15: Edge lists exported
+16:34:15: Exporting animation Speak
+16:34:15: Animation exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream ../Media/models/facial.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Exporting edge lists...
+16:34:15: Edge lists exported
+16:34:15: Exporting animation Speak
+16:34:15: Animation exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Warning: facial.mesh is an older format ([MeshSerializer_v1.8]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream ../Media/models/facial.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Exporting edge lists...
+16:34:15: Edge lists exported
+16:34:15: Exporting animation Speak
+16:34:15: Animation exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Warning: facial.mesh is an older format ([MeshSerializer_v1.41]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream ../Media/models/facial.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Exporting edge lists...
+16:34:15: Edge lists exported
+16:34:15: Exporting animation Speak
+16:34:15: Animation exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Warning: facial.mesh is an older format ([MeshSerializer_v1.40]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream ../Media/models/facial.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Exporting edge lists...
+16:34:15: Edge lists exported
+16:34:15: Exporting animation Speak
+16:34:15: Animation exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Warning: facial.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Creating resource group Essential
+16:34:15: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:15: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:15: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:15: Creating resource group Tests
+16:34:15: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Skeleton: Loading jaiqua.skeleton
+16:34:15: Mesh: Loading facial.mesh.
+16:34:15: Note: Mesh instance 'facial.mesh.orig.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'line.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream line.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Added resource location '.' of type 'FileSystem' to resource group 'General'
+16:34:15: Mesh: Loading line.mesh.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'lineList.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream lineList.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Added resource location '.' of type 'FileSystem' to resource group 'General'
+16:34:15: Mesh: Loading lineList.mesh.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'lineStrip.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream lineStrip.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Added resource location '.' of type 'FileSystem' to resource group 'General'
+16:34:15: Mesh: Loading lineStrip.mesh.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'pointList.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream pointList.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Added resource location '.' of type 'FileSystem' to resource group 'General'
+16:34:15: Mesh: Loading pointList.mesh.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'lineWithMat.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream lineWithMat.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: MaterialSerializer : writing material lineMat to queue.
+16:34:15: MaterialSerializer : done.
+16:34:15: MaterialSerializer : writing material(s) to material script : lineMat.material
+16:34:15: MaterialSerializer : done.
+16:34:15: Added resource location '.' of type 'FileSystem' to resource group 'General'
+16:34:15: Mesh: Loading lineWithMat.mesh.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'indexMix.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream indexMix.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Added resource location '.' of type 'FileSystem' to resource group 'General'
+16:34:15: Mesh: Loading indexMix.mesh.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'toClone.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: Note: Mesh instance 'clone.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream clone.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Added resource location '.' of type 'FileSystem' to resource group 'General'
+16:34:15: Mesh: Loading clone.mesh.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'testEdgeList.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream testEdgeList.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Exporting edge lists...
+16:34:15: Edge lists exported
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'testGenerateExtremes.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'testBuildTangentVectors.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Note: Mesh instance 'testGenerateLodLevels.mesh' was defined as manually loaded, but no manual loader was provided. This Resource will be lost if it has to be reloaded.
+16:34:15: MeshSerializer writing mesh data to stream testGenerateLodLevels.mesh...
+16:34:15: File header written.
+16:34:15: Writing mesh data...
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Writing submesh...
+16:34:15: Exporting submesh texture aliases...
+16:34:15: Submesh texture aliases exported.
+16:34:15: Submesh exported.
+16:34:15: Exporting LOD information....
+16:34:15: LOD information exported.
+16:34:15: Exporting bounds information....
+16:34:15: Bounds information exported.
+16:34:15: Exporting submesh name table...
+16:34:15: Submesh name table exported.
+16:34:15: Mesh data exported.
+16:34:15: MeshSerializer export successful.
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: Created RenderSystemCapabilitiescomplex caps
+16:34:15: Error in .rendercaps complexCapsTest.rendercaps:88 : Undefined capability: num_vertex_attributes
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type Zip registered.
+16:34:15: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:15: DDS codec registering
+16:34:15: ETC codec registering
+16:34:15: Registering ResourceManager for type HighLevelGpuProgram
+16:34:15: Registering ResourceManager for type Compositor
+16:34:15: MovableObjectFactory for type 'Entity' registered.
+16:34:15: MovableObjectFactory for type 'Light' registered.
+16:34:15: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:15: MovableObjectFactory for type 'ManualObject' registered.
+16:34:15: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:15: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:15: *-*-* OGRE Initialising
+16:34:15: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:15: ArchiveFactory for archive type DummyArchive registered.
+16:34:15: Added resource location 'ResourceLocationPriority0' of type 'DummyArchive' to resource group 'General'
+16:34:15: Added resource location 'ResourceLocationPriority1' of type 'DummyArchive' to resource group 'General'
+16:34:15: Removed resource location ResourceLocationPriority0
+16:34:15: Removed resource location ResourceLocationPriority1
+16:34:15: *-*-* OGRE Shutdown
+16:34:15: Unregistering ResourceManager for type Compositor
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type Zip registered.
+16:34:15: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:15: DDS codec registering
+16:34:15: ETC codec registering
+16:34:15: Registering ResourceManager for type HighLevelGpuProgram
+16:34:15: Registering ResourceManager for type Compositor
+16:34:15: MovableObjectFactory for type 'Entity' registered.
+16:34:15: MovableObjectFactory for type 'Light' registered.
+16:34:15: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:15: MovableObjectFactory for type 'ManualObject' registered.
+16:34:15: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:15: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:15: Loading library .\RenderSystem_Direct3D9.dll
+16:34:15: Installing plugin: D3D9 RenderSystem
+16:34:15: D3D9 : Direct3D9 Rendering Subsystem created.
+16:34:15: D3D9: Driver Detection Starts
+16:34:15: D3D9: Driver Detection Ends
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\RenderSystem_Direct3D11.dll
+16:34:15: Installing plugin: D3D11 RenderSystem
+16:34:15: D3D11: Direct3D11 Rendering Subsystem created.
+16:34:15: D3D11: Driver Detection Starts
+16:34:15: D3D11: "Intel(R) UHD Graphics 620"
+16:34:15: D3D11: "NVIDIA GeForce MX150"
+16:34:15: D3D11: "Microsoft Basic Render Driver (software)"
+16:34:15: D3D11: Driver Detection Ends
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\RenderSystem_GL.dll
+16:34:15: Installing plugin: GL RenderSystem
+16:34:15: OpenGL Rendering Subsystem created.
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\RenderSystem_GL3Plus.dll
+16:34:15: Installing plugin: GL 3+ RenderSystem
+16:34:15: OpenGL 3+ Rendering Subsystem created.
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\Plugin_ParticleFX.dll
+16:34:15: Installing plugin: ParticleFX
+16:34:15: Particle Emitter Type 'Point' registered
+16:34:15: Particle Emitter Type 'Box' registered
+16:34:15: Particle Emitter Type 'Ellipsoid' registered
+16:34:15: Particle Emitter Type 'Cylinder' registered
+16:34:15: Particle Emitter Type 'Ring' registered
+16:34:15: Particle Emitter Type 'HollowEllipsoid' registered
+16:34:15: Particle Affector Type 'LinearForce' registered
+16:34:15: Particle Affector Type 'ColourFader' registered
+16:34:15: Particle Affector Type 'ColourFader2' registered
+16:34:15: Particle Affector Type 'ColourImage' registered
+16:34:15: Particle Affector Type 'ColourInterpolator' registered
+16:34:15: Particle Affector Type 'Scaler' registered
+16:34:15: Particle Affector Type 'Rotator' registered
+16:34:15: Particle Affector Type 'DirectionRandomiser' registered
+16:34:15: Particle Affector Type 'DeflectorPlane' registered
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\Plugin_BSPSceneManager.dll
+16:34:15: Installing plugin: BSP Scene Manager
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\Codec_STBI.dll
+16:34:15: stb_image - v2.23 - public domain image loader
+16:34:15: Unregistering ResourceManager for type Compositor
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unloading library .\Codec_STBI
+16:34:15: Unloading library .\Plugin_BSPSceneManager
+16:34:15: Unloading library .\Plugin_ParticleFX
+16:34:15: Unloading library .\RenderSystem_Direct3D11
+16:34:15: Unloading library .\RenderSystem_Direct3D9
+16:34:15: Unloading library .\RenderSystem_GL
+16:34:15: Unloading library .\RenderSystem_GL3Plus
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type Zip registered.
+16:34:15: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:15: ETC codec registering
+16:34:15: Registering ResourceManager for type HighLevelGpuProgram
+16:34:15: Registering ResourceManager for type Compositor
+16:34:15: MovableObjectFactory for type 'Entity' registered.
+16:34:15: MovableObjectFactory for type 'Light' registered.
+16:34:15: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:15: MovableObjectFactory for type 'ManualObject' registered.
+16:34:15: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:15: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:15: Loading library .\RenderSystem_Direct3D9.dll
+16:34:15: Installing plugin: D3D9 RenderSystem
+16:34:15: D3D9 : Direct3D9 Rendering Subsystem created.
+16:34:15: D3D9: Driver Detection Starts
+16:34:15: D3D9: Driver Detection Ends
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\RenderSystem_Direct3D11.dll
+16:34:15: Installing plugin: D3D11 RenderSystem
+16:34:15: D3D11: Direct3D11 Rendering Subsystem created.
+16:34:15: D3D11: Driver Detection Starts
+16:34:15: D3D11: "Intel(R) UHD Graphics 620"
+16:34:15: D3D11: "NVIDIA GeForce MX150"
+16:34:15: D3D11: "Microsoft Basic Render Driver (software)"
+16:34:15: D3D11: Driver Detection Ends
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\RenderSystem_GL.dll
+16:34:15: Installing plugin: GL RenderSystem
+16:34:15: OpenGL Rendering Subsystem created.
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\RenderSystem_GL3Plus.dll
+16:34:15: Installing plugin: GL 3+ RenderSystem
+16:34:15: OpenGL 3+ Rendering Subsystem created.
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\Plugin_ParticleFX.dll
+16:34:15: Installing plugin: ParticleFX
+16:34:15: Particle Emitter Type 'Point' registered
+16:34:15: Particle Emitter Type 'Box' registered
+16:34:15: Particle Emitter Type 'Ellipsoid' registered
+16:34:15: Particle Emitter Type 'Cylinder' registered
+16:34:15: Particle Emitter Type 'Ring' registered
+16:34:15: Particle Emitter Type 'HollowEllipsoid' registered
+16:34:15: Particle Affector Type 'LinearForce' registered
+16:34:15: Particle Affector Type 'ColourFader' registered
+16:34:15: Particle Affector Type 'ColourFader2' registered
+16:34:15: Particle Affector Type 'ColourImage' registered
+16:34:15: Particle Affector Type 'ColourInterpolator' registered
+16:34:15: Particle Affector Type 'Scaler' registered
+16:34:15: Particle Affector Type 'Rotator' registered
+16:34:15: Particle Affector Type 'DirectionRandomiser' registered
+16:34:15: Particle Affector Type 'DeflectorPlane' registered
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\Plugin_BSPSceneManager.dll
+16:34:15: Installing plugin: BSP Scene Manager
+16:34:15: Plugin successfully installed
+16:34:15: Loading library .\Codec_STBI.dll
+16:34:15: stb_image - v2.23 - public domain image loader
+16:34:15: Unregistering ResourceManager for type Compositor
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unloading library .\Codec_STBI
+16:34:15: Unloading library .\Plugin_BSPSceneManager
+16:34:15: Unloading library .\Plugin_ParticleFX
+16:34:15: Unloading library .\RenderSystem_Direct3D11
+16:34:15: Unloading library .\RenderSystem_Direct3D9
+16:34:15: Unloading library .\RenderSystem_GL
+16:34:15: Unloading library .\RenderSystem_GL3Plus
+16:34:15: Creating resource group General
+16:34:15: Creating resource group OgreInternal
+16:34:15: Creating resource group OgreAutodetect
+16:34:15: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:15: Registering ResourceManager for type Material
+16:34:15: Registering ResourceManager for type Mesh
+16:34:15: Registering ResourceManager for type Skeleton
+16:34:15: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:15: ArchiveFactory for archive type FileSystem registered.
+16:34:15: ArchiveFactory for archive type Zip registered.
+16:34:15: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:15: ETC codec registering
+16:34:15: Registering ResourceManager for type HighLevelGpuProgram
+16:34:15: Registering ResourceManager for type Compositor
+16:34:15: MovableObjectFactory for type 'Entity' registered.
+16:34:15: MovableObjectFactory for type 'Light' registered.
+16:34:15: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:15: MovableObjectFactory for type 'ManualObject' registered.
+16:34:15: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:15: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:15: Loading library D:/CG/orge/bin/.\RenderSystem_Direct3D9.dll
+16:34:15: Installing plugin: D3D9 RenderSystem
+16:34:15: D3D9 : Direct3D9 Rendering Subsystem created.
+16:34:15: D3D9: Driver Detection Starts
+16:34:15: D3D9: Driver Detection Ends
+16:34:15: Plugin successfully installed
+16:34:15: Loading library D:/CG/orge/bin/.\RenderSystem_Direct3D11.dll
+16:34:15: Installing plugin: D3D11 RenderSystem
+16:34:15: D3D11: Direct3D11 Rendering Subsystem created.
+16:34:15: D3D11: Driver Detection Starts
+16:34:15: D3D11: "Intel(R) UHD Graphics 620"
+16:34:15: D3D11: "NVIDIA GeForce MX150"
+16:34:15: D3D11: "Microsoft Basic Render Driver (software)"
+16:34:15: D3D11: Driver Detection Ends
+16:34:15: Plugin successfully installed
+16:34:15: Loading library D:/CG/orge/bin/.\RenderSystem_GL.dll
+16:34:15: Installing plugin: GL RenderSystem
+16:34:15: OpenGL Rendering Subsystem created.
+16:34:15: Plugin successfully installed
+16:34:15: Loading library D:/CG/orge/bin/.\RenderSystem_GL3Plus.dll
+16:34:15: Installing plugin: GL 3+ RenderSystem
+16:34:15: OpenGL 3+ Rendering Subsystem created.
+16:34:15: Plugin successfully installed
+16:34:15: Loading library D:/CG/orge/bin/.\Plugin_ParticleFX.dll
+16:34:15: Installing plugin: ParticleFX
+16:34:15: Particle Emitter Type 'Point' registered
+16:34:15: Particle Emitter Type 'Box' registered
+16:34:15: Particle Emitter Type 'Ellipsoid' registered
+16:34:15: Particle Emitter Type 'Cylinder' registered
+16:34:15: Particle Emitter Type 'Ring' registered
+16:34:15: Particle Emitter Type 'HollowEllipsoid' registered
+16:34:15: Particle Affector Type 'LinearForce' registered
+16:34:15: Particle Affector Type 'ColourFader' registered
+16:34:15: Particle Affector Type 'ColourFader2' registered
+16:34:15: Particle Affector Type 'ColourImage' registered
+16:34:15: Particle Affector Type 'ColourInterpolator' registered
+16:34:15: Particle Affector Type 'Scaler' registered
+16:34:15: Particle Affector Type 'Rotator' registered
+16:34:15: Particle Affector Type 'DirectionRandomiser' registered
+16:34:15: Particle Affector Type 'DeflectorPlane' registered
+16:34:15: Plugin successfully installed
+16:34:15: Loading library D:/CG/orge/bin/.\Plugin_BSPSceneManager.dll
+16:34:15: Installing plugin: BSP Scene Manager
+16:34:15: Plugin successfully installed
+16:34:15: Loading library D:/CG/orge/bin/.\Codec_STBI.dll
+16:34:15: stb_image - v2.23 - public domain image loader
+16:34:15: Unregistering ResourceManager for type Compositor
+16:34:15: Unregistering ResourceManager for type Skeleton
+16:34:15: Unregistering ResourceManager for type Mesh
+16:34:15: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:15: Unregistering ResourceManager for type Material
+16:34:15: Unloading library D:/CG/orge/bin/.\Codec_STBI
+16:34:15: Unloading library D:/CG/orge/bin/.\Plugin_BSPSceneManager
+16:34:15: Unloading library D:/CG/orge/bin/.\Plugin_ParticleFX
+16:34:15: Unloading library D:/CG/orge/bin/.\RenderSystem_Direct3D11
+16:34:15: Unloading library D:/CG/orge/bin/.\RenderSystem_Direct3D9
+16:34:15: Unloading library D:/CG/orge/bin/.\RenderSystem_GL
+16:34:15: Unloading library D:/CG/orge/bin/.\RenderSystem_GL3Plus
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: *-*-* OGRE Initialising
+16:34:16: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:16: Creating resource group BSPWorld
+16:34:16: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:16: Creating resource group Essential
+16:34:16: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Creating resource group Tests
+16:34:16: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:16: Mesh: Loading Sinbad.mesh.
+16:34:16: Skeleton: Loading Sinbad.skeleton
+16:34:16: *-*-* OGRE Shutdown
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: DDS codec registering
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: *-*-* OGRE Initialising
+16:34:16: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:16: Creating resource group BSPWorld
+16:34:16: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:16: Creating resource group Essential
+16:34:16: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Creating resource group Tests
+16:34:16: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:16: Mesh: Loading Sinbad.mesh.
+16:34:16: Skeleton: Loading Sinbad.skeleton
+16:34:16: MeshSerializer writing mesh data to stream ...
+16:34:16: File header written.
+16:34:16: Writing Lod Config...
+16:34:16: LodConfigSerializer export successful.
+16:34:16: *-*-* OGRE Shutdown
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: DDS codec registering
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: *-*-* OGRE Initialising
+16:34:16: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:16: Creating resource group BSPWorld
+16:34:16: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:16: Creating resource group Essential
+16:34:16: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Creating resource group Tests
+16:34:16: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:16: Mesh: Loading Sinbad.mesh.
+16:34:16: Skeleton: Loading Sinbad.skeleton
+16:34:16: *-*-* OGRE Shutdown
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: DDS codec registering
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: *-*-* OGRE Initialising
+16:34:16: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:16: Creating resource group BSPWorld
+16:34:16: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:16: Creating resource group Essential
+16:34:16: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Creating resource group Tests
+16:34:16: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:16: Mesh: Loading Sinbad.mesh.
+16:34:16: Skeleton: Loading Sinbad.skeleton
+16:34:16: *-*-* OGRE Shutdown
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: DDS codec registering
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: Loading library D:/CG/orge/bin/.\RenderSystem_Direct3D9.dll
+16:34:16: Installing plugin: D3D9 RenderSystem
+16:34:16: D3D9 : Direct3D9 Rendering Subsystem created.
+16:34:16: D3D9: Driver Detection Starts
+16:34:16: D3D9: Driver Detection Ends
+16:34:16: Plugin successfully installed
+16:34:16: Loading library D:/CG/orge/bin/.\RenderSystem_Direct3D11.dll
+16:34:16: Installing plugin: D3D11 RenderSystem
+16:34:16: D3D11: Direct3D11 Rendering Subsystem created.
+16:34:16: D3D11: Driver Detection Starts
+16:34:16: D3D11: "Intel(R) UHD Graphics 620"
+16:34:16: D3D11: "NVIDIA GeForce MX150"
+16:34:16: D3D11: "Microsoft Basic Render Driver (software)"
+16:34:16: D3D11: Driver Detection Ends
+16:34:16: Plugin successfully installed
+16:34:16: Loading library D:/CG/orge/bin/.\RenderSystem_GL.dll
+16:34:16: Installing plugin: GL RenderSystem
+16:34:16: OpenGL Rendering Subsystem created.
+16:34:16: Plugin successfully installed
+16:34:16: Loading library D:/CG/orge/bin/.\RenderSystem_GL3Plus.dll
+16:34:16: Installing plugin: GL 3+ RenderSystem
+16:34:16: OpenGL 3+ Rendering Subsystem created.
+16:34:16: Plugin successfully installed
+16:34:16: Loading library D:/CG/orge/bin/.\Plugin_ParticleFX.dll
+16:34:16: Installing plugin: ParticleFX
+16:34:16: Particle Emitter Type 'Point' registered
+16:34:16: Particle Emitter Type 'Box' registered
+16:34:16: Particle Emitter Type 'Ellipsoid' registered
+16:34:16: Particle Emitter Type 'Cylinder' registered
+16:34:16: Particle Emitter Type 'Ring' registered
+16:34:16: Particle Emitter Type 'HollowEllipsoid' registered
+16:34:16: Particle Affector Type 'LinearForce' registered
+16:34:16: Particle Affector Type 'ColourFader' registered
+16:34:16: Particle Affector Type 'ColourFader2' registered
+16:34:16: Particle Affector Type 'ColourImage' registered
+16:34:16: Particle Affector Type 'ColourInterpolator' registered
+16:34:16: Particle Affector Type 'Scaler' registered
+16:34:16: Particle Affector Type 'Rotator' registered
+16:34:16: Particle Affector Type 'DirectionRandomiser' registered
+16:34:16: Particle Affector Type 'DeflectorPlane' registered
+16:34:16: Plugin successfully installed
+16:34:16: Loading library D:/CG/orge/bin/.\Plugin_BSPSceneManager.dll
+16:34:16: Installing plugin: BSP Scene Manager
+16:34:16: Plugin successfully installed
+16:34:16: Loading library D:/CG/orge/bin/.\Codec_STBI.dll
+16:34:16: stb_image - v2.23 - public domain image loader
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material
+16:34:16: Unloading library D:/CG/orge/bin/.\Codec_STBI
+16:34:16: Unloading library D:/CG/orge/bin/.\Plugin_BSPSceneManager
+16:34:16: Unloading library D:/CG/orge/bin/.\Plugin_ParticleFX
+16:34:16: Unloading library D:/CG/orge/bin/.\RenderSystem_Direct3D11
+16:34:16: Unloading library D:/CG/orge/bin/.\RenderSystem_Direct3D9
+16:34:16: Unloading library D:/CG/orge/bin/.\RenderSystem_GL
+16:34:16: Unloading library D:/CG/orge/bin/.\RenderSystem_GL3Plus
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: *-*-* OGRE Initialising
+16:34:16: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:16: Creating resource group BSPWorld
+16:34:16: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:16: Creating resource group Essential
+16:34:16: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Creating resource group Tests
+16:34:16: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:16: Warning: ShaderGenerator: No supported language found. Falling back to 'null'
+16:34:16: Material TestMat Technique 0 is not supported. NULL RenderSystem
+16:34:16: Warning: material TestMat has no supportable Techniques and will be blank. Explanation: 
+NULL RenderSystem
+16:34:16: *-*-* OGRE Shutdown
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: DDS codec registering
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: *-*-* OGRE Initialising
+16:34:16: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:16: Creating resource group BSPWorld
+16:34:16: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:16: Creating resource group Essential
+16:34:16: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Creating resource group Tests
+16:34:16: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:16: Warning: ShaderGenerator: No supported language found. Falling back to 'null'
+16:34:16: MaterialSerializer : writing material TestMat to queue.
+16:34:16: MaterialSerializer : done.
+16:34:16: *-*-* OGRE Shutdown
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: DDS codec registering
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: *-*-* OGRE Initialising
+16:34:16: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:16: Creating resource group BSPWorld
+16:34:16: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:16: Creating resource group Essential
+16:34:16: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Creating resource group Tests
+16:34:16: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:16: Warning: ShaderGenerator: No supported language found. Falling back to 'null'
+16:34:16: *-*-* OGRE Shutdown
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material
+16:34:16: Creating resource group General
+16:34:16: Creating resource group OgreInternal
+16:34:16: Creating resource group OgreAutodetect
+16:34:16: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:34:16: Registering ResourceManager for type Material
+16:34:16: Registering ResourceManager for type Mesh
+16:34:16: Registering ResourceManager for type Skeleton
+16:34:16: MovableObjectFactory for type 'ParticleSystem' registered.
+16:34:16: ArchiveFactory for archive type FileSystem registered.
+16:34:16: ArchiveFactory for archive type Zip registered.
+16:34:16: ArchiveFactory for archive type EmbeddedZip registered.
+16:34:16: DDS codec registering
+16:34:16: ETC codec registering
+16:34:16: Registering ResourceManager for type HighLevelGpuProgram
+16:34:16: Registering ResourceManager for type Compositor
+16:34:16: MovableObjectFactory for type 'Entity' registered.
+16:34:16: MovableObjectFactory for type 'Light' registered.
+16:34:16: MovableObjectFactory for type 'BillboardSet' registered.
+16:34:16: MovableObjectFactory for type 'ManualObject' registered.
+16:34:16: MovableObjectFactory for type 'BillboardChain' registered.
+16:34:16: MovableObjectFactory for type 'RibbonTrail' registered.
+16:34:16: *-*-* OGRE Initialising
+16:34:16: *-*-* Version 1.12.6 (Rhagorthua)
+16:34:16: Creating resource group BSPWorld
+16:34:16: Added resource location '../Media/packs/oa_rpg3dm2.pk3' of type 'Zip' to resource group 'BSPWorld'
+16:34:16: Creating resource group Essential
+16:34:16: Added resource location '../Media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media/packs/profiler.zip' of type 'Zip' to resource group 'Essential'
+16:34:16: Added resource location '../Media' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/fonts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/programs' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/terrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/models' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/particle' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/DeferredShadingMedia/DeferredShading/post' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PCZAppMedia' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/scripts/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/SSAO' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/PBR' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/materials/textures/glTF2_IBL' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/HLMS' of type 'FileSystem' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/ogredance.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/Sinbad.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/volumeTerrain/volumeTerrainBig.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/packs/DamagedHelmet.zip' of type 'Zip' to resource group 'General'
+16:34:16: Added resource location '../Media/ShadowVolume' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/materials' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/GLSL' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/RTShaderLib/HLSL_Cg' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Added resource location '../Media/Terrain/' of type 'FileSystem' to resource group 'OgreInternal'
+16:34:16: Creating resource group Tests
+16:34:16: Added resource location '../Tests/Media' of type 'FileSystem' to resource group 'Tests'
+16:34:16: Warning: ShaderGenerator: No supported language found. Falling back to 'null'
+16:34:16: *-*-* OGRE Shutdown
+16:34:16: Unregistering ResourceManager for type Compositor
+16:34:16: Unregistering ResourceManager for type Skeleton
+16:34:16: Unregistering ResourceManager for type Mesh
+16:34:16: Unregistering ResourceManager for type HighLevelGpuProgram
+16:34:16: Unregistering ResourceManager for type Material

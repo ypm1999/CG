@@ -1,0 +1,986 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(main.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+e:\cg\orge\include\ogre\ogrecommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\cg\orge\include\ogre\ogreaxisalignedbox.h(66): warning C4251: “Ogre::AxisAlignedBox::mMinimum”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::AxisAlignedBox”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreaxisalignedbox.h(67): warning C4251: “Ogre::AxisAlignedBox::mMaximum”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::AxisAlignedBox”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreplane.h(65): warning C4251: “Ogre::Plane::normal”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::Plane”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogresphere.h(56): warning C4251: “Ogre::Sphere::mCenter”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::Sphere”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogregpuprogramparams.h(662): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\cg\orge\include\ogre\ogrebone.h(140): warning C4251: “Ogre::Bone::mBindDerivedInverseScale”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::Bone”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogrebone.h(144): warning C4251: “Ogre::Bone::mBindDerivedInversePosition”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::Bone”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogrepass.h(632): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\cg\orge\include\ogre\ogreray.h(48): warning C4251: “Ogre::Ray::mOrigin”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::Ray”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreray.h(49): warning C4251: “Ogre::Ray::mDirection”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::Ray”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(74): warning C4251: “Ogre::AutoParamDataSource::mCameraPosition”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(75): warning C4251: “Ogre::AutoParamDataSource::mCameraPositionObjectSpace”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(80): warning C4251: “Ogre::AutoParamDataSource::mShadowCamDepthRanges”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(85): warning C4251: “Ogre::AutoParamDataSource::mLodCameraPosition”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(86): warning C4251: “Ogre::AutoParamDataSource::mLodCameraPositionObjectSpace”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(108): warning C4251: “Ogre::AutoParamDataSource::mFogParams”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(109): warning C4251: “Ogre::AutoParamDataSource::mPointParams”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(111): warning C4251: “Ogre::AutoParamDataSource::mSceneDepthRange”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogreautoparamdatasource.h(119): warning C4251: “Ogre::AutoParamDataSource::mCameraRelativePosition”: class“Ogre::Vector<3,Ogre::Real>”需要有 dll 接口由 class“Ogre::AutoParamDataSource”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(253): note: 参见“Ogre::Vector<3,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\ogretexturemanager.h(419): warning C4251: “Ogre::TextureManager::mWarningTexture”: class“Ogre::SharedPtr<Ogre::Texture>”需要有 dll 接口由 class“Ogre::TextureManager”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(303): note: 参见“Ogre::SharedPtr<Ogre::Texture>”的声明
+e:\cg\orge\include\ogre\ogretexturemanager.h(420): warning C4251: “Ogre::TextureManager::mDefaultSampler”: class“std::shared_ptr<Ogre::Sampler>”需要有 dll 接口由 class“Ogre::TextureManager”的客户端使用
+  e:\cg\orge\include\ogre\ogretextureunitstate.h(223): note: 参见“std::shared_ptr<Ogre::Sampler>”的声明
+e:\cg\orge\include\ogre\ogretexturemanager.h(421): warning C4251: “Ogre::TextureManager::mNamedSamplers”: class“std::map<Ogre::String,Ogre::SamplerPtr,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::TextureManager”的客户端使用
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::SamplerPtr
+          ]
+  e:\cg\orge\include\ogre\ogretexturemanager.h(421): note: 参见“std::map<Ogre::String,Ogre::SamplerPtr,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::SamplerPtr
+          ]
+e:\cg\orge\include\ogre\ogretimer.h(41): warning C4251: “Ogre::Timer::start”: class“std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>”需要有 dll 接口由 class“Ogre::Timer”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\chrono(795): note: 参见“std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>”的声明
+e:\cg\orge\include\ogre\bites\ogrestaticpluginloader.h(20): warning C4251: “OgreBites::StaticPluginLoader::mPlugins”: class“std::vector<Ogre::Plugin *,std::allocator<_Ty>>”需要有 dll 接口由 class“OgreBites::StaticPluginLoader”的客户端使用
+          with
+          [
+              _Ty=Ogre::Plugin *
+          ]
+  e:\cg\orge\include\ogre\ogreroot.h(73): note: 参见“std::vector<Ogre::Plugin *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::Plugin *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(195): warning C4251: “Ogre::RTShader::ProgramManager::mProgramWritersMap”: class“std::map<Ogre::String,Ogre::RTShader::ProgramWriter *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ProgramManager”的客户端使用
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::RTShader::ProgramWriter *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(100): note: 参见“std::map<Ogre::String,Ogre::RTShader::ProgramWriter *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::RTShader::ProgramWriter *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(197): warning C4251: “Ogre::RTShader::ProgramManager::mProgramProcessorsMap”: class“std::map<Ogre::String,Ogre::RTShader::ProgramProcessor *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ProgramManager”的客户端使用
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::RTShader::ProgramProcessor *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(105): note: 参见“std::map<Ogre::String,Ogre::RTShader::ProgramProcessor *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::RTShader::ProgramProcessor *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(199): warning C4251: “Ogre::RTShader::ProgramManager::mProgramWriterFactories”: class“std::vector<Ogre::RTShader::ProgramWriterFactory *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ProgramManager”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramWriterFactory *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(102): note: 参见“std::vector<Ogre::RTShader::ProgramWriterFactory *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramWriterFactory *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(201): warning C4251: “Ogre::RTShader::ProgramManager::mVertexShaderMap”: class“std::map<Ogre::String,Ogre::GpuProgramPtr,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ProgramManager”的客户端使用
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::GpuProgramPtr
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(93): note: 参见“std::map<Ogre::String,Ogre::GpuProgramPtr,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::GpuProgramPtr
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(203): warning C4251: “Ogre::RTShader::ProgramManager::mFragmentShaderMap”: class“std::map<Ogre::String,Ogre::GpuProgramPtr,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ProgramManager”的客户端使用
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::GpuProgramPtr
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(93): note: 参见“std::map<Ogre::String,Ogre::GpuProgramPtr,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::GpuProgramPtr
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(205): warning C4251: “Ogre::RTShader::ProgramManager::mDefaultProgramProcessors”: class“std::vector<Ogre::RTShader::ProgramProcessor *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ProgramManager”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramProcessor *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogrammanager.h(108): note: 参见“std::vector<Ogre::RTShader::ProgramProcessor *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramProcessor *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderparameter.h(376): warning C4251: “Ogre::RTShader::Parameter::mName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::Parameter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderparameter.h(379): warning C4251: “Ogre::RTShader::Parameter::mBindName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::Parameter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(151): warning C4251: “Ogre::RTShader::SubRenderState::mThisAccessor”: class“Ogre::SharedPtr<Ogre::RTShader::SubRenderStateAccessor>”需要有 dll 接口由 class“Ogre::RTShader::SubRenderState”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(43): note: 参见“Ogre::SharedPtr<Ogre::RTShader::SubRenderStateAccessor>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(153): warning C4251: “Ogre::RTShader::SubRenderState::mOtherAccessor”: class“Ogre::SharedPtr<Ogre::RTShader::SubRenderStateAccessor>”需要有 dll 接口由 class“Ogre::RTShader::SubRenderState”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(43): note: 参见“Ogre::SharedPtr<Ogre::RTShader::SubRenderStateAccessor>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(208): warning C4251: “Ogre::RTShader::SubRenderStateAccessor::mSubRenderStateInstancesSet”: class“std::set<Ogre::RTShader::SubRenderState *,std::less<_Kty>,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::SubRenderStateAccessor”的客户端使用
+          with
+          [
+              _Kty=Ogre::RTShader::SubRenderState *,
+              _Ty=Ogre::RTShader::SubRenderState *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(161): note: 参见“std::set<Ogre::RTShader::SubRenderState *,std::less<_Kty>,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Kty=Ogre::RTShader::SubRenderState *,
+              _Ty=Ogre::RTShader::SubRenderState *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(313): warning C4251: “Ogre::RTShader::SubRenderStateFactory::mSubRenderStateList”: class“std::set<Ogre::RTShader::SubRenderState *,std::less<_Kty>,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::SubRenderStateFactory”的客户端使用
+          with
+          [
+              _Kty=Ogre::RTShader::SubRenderState *,
+              _Ty=Ogre::RTShader::SubRenderState *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(161): note: 参见“std::set<Ogre::RTShader::SubRenderState *,std::less<_Kty>,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Kty=Ogre::RTShader::SubRenderState *,
+              _Ty=Ogre::RTShader::SubRenderState *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogramset.h(71): warning C4251: “Ogre::RTShader::ProgramSet::mVSCpuProgram”: class“std::unique_ptr<Ogre::RTShader::Program,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ProgramSet”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::Program
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogramset.h(65): note: 参见“std::unique_ptr<Ogre::RTShader::Program,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::Program
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogramset.h(73): warning C4251: “Ogre::RTShader::ProgramSet::mPSCpuProgram”: class“std::unique_ptr<Ogre::RTShader::Program,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ProgramSet”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::Program
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogramset.h(65): note: 参见“std::unique_ptr<Ogre::RTShader::Program,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::Program
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogramset.h(75): warning C4251: “Ogre::RTShader::ProgramSet::mVSGpuProgram”: class“Ogre::SharedPtr<Ogre::GpuProgram>”需要有 dll 接口由 class“Ogre::RTShader::ProgramSet”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(282): note: 参见“Ogre::SharedPtr<Ogre::GpuProgram>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprogramset.h(77): warning C4251: “Ogre::RTShader::ProgramSet::mPSGpuProgram”: class“Ogre::SharedPtr<Ogre::GpuProgram>”需要有 dll 接口由 class“Ogre::RTShader::ProgramSet”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(282): note: 参见“Ogre::SharedPtr<Ogre::GpuProgram>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderrenderstate.h(117): warning C4251: “Ogre::RTShader::RenderState::mSubRenderStateList”: class“std::vector<Ogre::RTShader::SubRenderState *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::RenderState”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::SubRenderState *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadersubrenderstate.h(157): note: 参见“std::vector<Ogre::RTShader::SubRenderState *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::SubRenderState *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderrenderstate.h(119): warning C4251: “Ogre::RTShader::RenderState::mLightCount”: class“Ogre::Vector<3,int>”需要有 dll 接口由 class“Ogre::RTShader::RenderState”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(254): note: 参见“Ogre::Vector<3,int>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderrenderstate.h(204): warning C4251: “Ogre::RTShader::TargetRenderState::mProgramSet”: class“std::unique_ptr<Ogre::RTShader::ProgramSet,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::TargetRenderState”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramSet
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderrenderstate.h(204): note: 参见“std::unique_ptr<Ogre::RTShader::ProgramSet,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramSet
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(432): warning C4251: “Ogre::RTShader::ShaderGenerator::DEFAULT_SCHEME_NAME”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(524): warning C4251: “Ogre::RTShader::ShaderGenerator::SGPass::mTargetRenderState”: class“std::unique_ptr<Ogre::RTShader::TargetRenderState,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGPass”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::TargetRenderState
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(524): note: 参见“std::unique_ptr<Ogre::RTShader::TargetRenderState,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::TargetRenderState
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(585): warning C4251: “Ogre::RTShader::ShaderGenerator::SGTechnique::UserKey”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGTechnique”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(608): warning C4251: “Ogre::RTShader::ShaderGenerator::SGTechnique::mPassEntries”: class“std::vector<Ogre::RTShader::ShaderGenerator::SGPass *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGTechnique”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ShaderGenerator::SGPass *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(452): note: 参见“std::vector<Ogre::RTShader::ShaderGenerator::SGPass *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ShaderGenerator::SGPass *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(611): warning C4251: “Ogre::RTShader::ShaderGenerator::SGTechnique::mCustomRenderStates”: class“std::vector<Ogre::RTShader::RenderState *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGTechnique”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::RenderState *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(610): note: 参见“std::vector<Ogre::RTShader::RenderState *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::RenderState *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(615): warning C4251: “Ogre::RTShader::ShaderGenerator::SGTechnique::mDstTechniqueSchemeName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGTechnique”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(643): warning C4251: “Ogre::RTShader::ShaderGenerator::SGMaterial::mName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGMaterial”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(645): warning C4251: “Ogre::RTShader::ShaderGenerator::SGMaterial::mGroup”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGMaterial”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(647): warning C4251: “Ogre::RTShader::ShaderGenerator::SGMaterial::mTechniqueEntries”: class“std::vector<Ogre::RTShader::ShaderGenerator::SGTechnique *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGMaterial”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ShaderGenerator::SGTechnique *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(456): note: 参见“std::vector<Ogre::RTShader::ShaderGenerator::SGTechnique *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ShaderGenerator::SGTechnique *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(720): warning C4251: “Ogre::RTShader::ShaderGenerator::SGScheme::mName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGScheme”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(722): warning C4251: “Ogre::RTShader::ShaderGenerator::SGScheme::mTechniqueEntries”: class“std::vector<Ogre::RTShader::ShaderGenerator::SGTechnique *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGScheme”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ShaderGenerator::SGTechnique *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(456): note: 参见“std::vector<Ogre::RTShader::ShaderGenerator::SGTechnique *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ShaderGenerator::SGTechnique *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(726): warning C4251: “Ogre::RTShader::ShaderGenerator::SGScheme::mRenderState”: class“std::unique_ptr<Ogre::RTShader::RenderState,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator::SGScheme”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::RenderState
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(726): note: 参见“std::unique_ptr<Ogre::RTShader::RenderState,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::RenderState
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(836): warning C4251: “Ogre::RTShader::ShaderGenerator::mSceneManagerMap”: class“std::map<Ogre::String,Ogre::SceneManager *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::SceneManager *
+          ]
+  e:\cg\orge\include\ogre\ogrescenemanagerenumerator.h(91): note: 参见“std::map<Ogre::String,Ogre::SceneManager *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::SceneManager *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(838): warning C4251: “Ogre::RTShader::ShaderGenerator::mRenderObjectListener”: class“std::unique_ptr<Ogre::RTShader::SGRenderObjectListener,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::SGRenderObjectListener
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(838): note: 参见“std::unique_ptr<Ogre::RTShader::SGRenderObjectListener,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::SGRenderObjectListener
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(840): warning C4251: “Ogre::RTShader::ShaderGenerator::mSceneManagerListener”: class“std::unique_ptr<Ogre::RTShader::SGSceneManagerListener,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::SGSceneManagerListener
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(840): note: 参见“std::unique_ptr<Ogre::RTShader::SGSceneManagerListener,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::SGSceneManagerListener
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(842): warning C4251: “Ogre::RTShader::ShaderGenerator::mScriptTranslatorManager”: class“std::unique_ptr<Ogre::RTShader::SGScriptTranslatorManager,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::SGScriptTranslatorManager
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(842): note: 参见“std::unique_ptr<Ogre::RTShader::SGScriptTranslatorManager,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::SGScriptTranslatorManager
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(844): warning C4251: “Ogre::RTShader::ShaderGenerator::mMaterialSerializerListener”: class“std::unique_ptr<Ogre::RTShader::SGMaterialSerializerListener,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::SGMaterialSerializerListener
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(844): note: 参见“std::unique_ptr<Ogre::RTShader::SGMaterialSerializerListener,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::SGMaterialSerializerListener
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(846): warning C4251: “Ogre::RTShader::ShaderGenerator::mResourceGroupListener”: class“std::unique_ptr<Ogre::RTShader::SGResourceGroupListener,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::SGResourceGroupListener
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(846): note: 参见“std::unique_ptr<Ogre::RTShader::SGResourceGroupListener,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::SGResourceGroupListener
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(850): warning C4251: “Ogre::RTShader::ShaderGenerator::mShaderLanguage”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(852): warning C4251: “Ogre::RTShader::ShaderGenerator::mVertexShaderProfiles”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(854): warning C4251: “Ogre::RTShader::ShaderGenerator::mVertexShaderProfilesList”: class“std::vector<Ogre::String,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::String
+          ]
+  e:\cg\orge\include\ogre\ogrestring.h(110): note: 参见“std::vector<Ogre::String,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::String
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(856): warning C4251: “Ogre::RTShader::ShaderGenerator::mFragmentShaderProfiles”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(858): warning C4251: “Ogre::RTShader::ShaderGenerator::mFragmentShaderProfilesList”: class“std::vector<Ogre::String,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::String
+          ]
+  e:\cg\orge\include\ogre\ogrestring.h(110): note: 参见“std::vector<Ogre::String,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::String
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(860): warning C4251: “Ogre::RTShader::ShaderGenerator::mShaderCachePath”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(862): warning C4251: “Ogre::RTShader::ShaderGenerator::mProgramManager”: class“std::unique_ptr<Ogre::RTShader::ProgramManager,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramManager
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(862): note: 参见“std::unique_ptr<Ogre::RTShader::ProgramManager,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramManager
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(864): warning C4251: “Ogre::RTShader::ShaderGenerator::mProgramWriterManager”: class“std::unique_ptr<Ogre::RTShader::ProgramWriterManager,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramWriterManager
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(864): note: 参见“std::unique_ptr<Ogre::RTShader::ProgramWriterManager,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ProgramWriterManager
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(868): warning C4251: “Ogre::RTShader::ShaderGenerator::mFFPRenderStateBuilder”: class“std::unique_ptr<Ogre::RTShader::FFPRenderStateBuilder,std::default_delete<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::FFPRenderStateBuilder
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(868): note: 参见“std::unique_ptr<Ogre::RTShader::FFPRenderStateBuilder,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::FFPRenderStateBuilder
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(870): warning C4251: “Ogre::RTShader::ShaderGenerator::mMaterialEntriesMap”: class“std::map<Ogre::RTShader::ShaderGenerator::MatGroupPair,Ogre::RTShader::ShaderGenerator::SGMaterial *,Ogre::RTShader::ShaderGenerator::MatGroupPair_less,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Kty=Ogre::RTShader::ShaderGenerator::MatGroupPair,
+              _Ty=Ogre::RTShader::ShaderGenerator::SGMaterial *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(463): note: 参见“std::map<Ogre::RTShader::ShaderGenerator::MatGroupPair,Ogre::RTShader::ShaderGenerator::SGMaterial *,Ogre::RTShader::ShaderGenerator::MatGroupPair_less,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::RTShader::ShaderGenerator::MatGroupPair,
+              _Ty=Ogre::RTShader::ShaderGenerator::SGMaterial *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(872): warning C4251: “Ogre::RTShader::ShaderGenerator::mSchemeEntriesMap”: class“std::map<Ogre::String,Ogre::RTShader::ShaderGenerator::SGScheme *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::RTShader::ShaderGenerator::SGScheme *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(467): note: 参见“std::map<Ogre::String,Ogre::RTShader::ShaderGenerator::SGScheme *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::RTShader::ShaderGenerator::SGScheme *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(874): warning C4251: “Ogre::RTShader::ShaderGenerator::mTechniqueEntriesMap”: class“std::map<Ogre::RTShader::ShaderGenerator::SGTechnique *,Ogre::RTShader::ShaderGenerator::SGTechnique *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Kty=Ogre::RTShader::ShaderGenerator::SGTechnique *,
+              _Ty=Ogre::RTShader::ShaderGenerator::SGTechnique *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(460): note: 参见“std::map<Ogre::RTShader::ShaderGenerator::SGTechnique *,Ogre::RTShader::ShaderGenerator::SGTechnique *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::RTShader::ShaderGenerator::SGTechnique *,
+              _Ty=Ogre::RTShader::ShaderGenerator::SGTechnique *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(876): warning C4251: “Ogre::RTShader::ShaderGenerator::mSubRenderStateFactories”: class“std::map<Ogre::String,Ogre::RTShader::SubRenderStateFactory *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::RTShader::SubRenderStateFactory *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(735): note: 参见“std::map<Ogre::String,Ogre::RTShader::SubRenderStateFactory *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=Ogre::String,
+              _Ty=Ogre::RTShader::SubRenderStateFactory *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(878): warning C4251: “Ogre::RTShader::ShaderGenerator::mBuiltinSRSFactories”: class“std::vector<Ogre::RTShader::SubRenderStateFactory *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::ShaderGenerator”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::SubRenderStateFactory *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshadergenerator.h(878): note: 参见“std::vector<Ogre::RTShader::SubRenderStateFactory *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::SubRenderStateFactory *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunctionatom.h(152): warning C4251: “Ogre::RTShader::Operand::mParameter”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::Operand”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunctionatom.h(233): warning C4251: “Ogre::RTShader::FunctionAtom::mOperands”: class“std::vector<Ogre::RTShader::Operand,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::FunctionAtom”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::Operand
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunctionatom.h(200): note: 参见“std::vector<Ogre::RTShader::Operand,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::Operand
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunctionatom.h(234): warning C4251: “Ogre::RTShader::FunctionAtom::mFunctionName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::FunctionAtom”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunctionatom.h(292): warning C4251: “Ogre::RTShader::FunctionInvocation::mReturnType”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::FunctionInvocation”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunction.h(291): warning C4251: “Ogre::RTShader::Function::mName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::Function”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunction.h(293): warning C4251: “Ogre::RTShader::Function::mDescription”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::Function”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunction.h(295): warning C4251: “Ogre::RTShader::Function::mInputParameters”: class“std::vector<Ogre::RTShader::ParameterPtr,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::Function”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ParameterPtr
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(77): note: 参见“std::vector<Ogre::RTShader::ParameterPtr,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ParameterPtr
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunction.h(297): warning C4251: “Ogre::RTShader::Function::mOutputParameters”: class“std::vector<Ogre::RTShader::ParameterPtr,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::Function”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ParameterPtr
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(77): note: 参见“std::vector<Ogre::RTShader::ParameterPtr,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ParameterPtr
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunction.h(299): warning C4251: “Ogre::RTShader::Function::mLocalParameters”: class“std::vector<Ogre::RTShader::ParameterPtr,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::Function”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::ParameterPtr
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(77): note: 参见“std::vector<Ogre::RTShader::ParameterPtr,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::ParameterPtr
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunction.h(301): warning C4251: “Ogre::RTShader::Function::mAtomInstances”: class“std::map<size_t,Ogre::RTShader::FunctionAtomInstanceList,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“Ogre::RTShader::Function”的客户端使用
+          with
+          [
+              _Kty=size_t,
+              _Ty=Ogre::RTShader::FunctionAtomInstanceList
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunction.h(301): note: 参见“std::map<size_t,Ogre::RTShader::FunctionAtomInstanceList,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=size_t,
+              _Ty=Ogre::RTShader::FunctionAtomInstanceList
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunction.h(302): warning C4251: “Ogre::RTShader::Function::mSortedAtomInstances”: class“std::vector<Ogre::RTShader::FunctionAtom *,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::Function”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::FunctionAtom *
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderfunctionatom.h(324): note: 参见“std::vector<Ogre::RTShader::FunctionAtom *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::FunctionAtom *
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptransform.h(83): warning C4251: “Ogre::RTShader::FFPTransform::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::FFPTransform”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpcolour.h(113): warning C4251: “Ogre::RTShader::FFPColour::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::FFPColour”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpcolour.h(124): warning C4251: “Ogre::RTShader::FFPColour::mVSInputDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPColour”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpcolour.h(126): warning C4251: “Ogre::RTShader::FFPColour::mVSOutputDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPColour”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpcolour.h(128): warning C4251: “Ogre::RTShader::FFPColour::mVSOutputSpecular”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPColour”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpcolour.h(130): warning C4251: “Ogre::RTShader::FFPColour::mPSInputDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPColour”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpcolour.h(132): warning C4251: “Ogre::RTShader::FFPColour::mPSInputSpecular”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPColour”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpcolour.h(134): warning C4251: “Ogre::RTShader::FFPColour::mPSOutputDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPColour”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(91): warning C4251: “Ogre::RTShader::FFPLighting::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(101): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mPosition”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(103): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mDirection”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(105): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mAttenuatParams”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(107): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mSpotParams”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(109): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mDiffuseColour”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(111): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mSpecularColour”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(115): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mToLight”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(117): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mPSInDirection”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(120): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mVSOutToLightDir”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(122): warning C4251: “Ogre::RTShader::FFPLighting::LightParams::mVSOutDirection”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPLighting::LightParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(202): warning C4251: “Ogre::RTShader::FFPLighting::mLightParamsList”: class“std::vector<Ogre::RTShader::FFPLighting::LightParams,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::FFPLighting::LightParams
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(125): note: 参见“std::vector<Ogre::RTShader::FFPLighting::LightParams,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::FFPLighting::LightParams
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(204): warning C4251: “Ogre::RTShader::FFPLighting::mWorldViewMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(206): warning C4251: “Ogre::RTShader::FFPLighting::mWorldViewITMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(208): warning C4251: “Ogre::RTShader::FFPLighting::mViewNormal”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(210): warning C4251: “Ogre::RTShader::FFPLighting::mViewPos”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(212): warning C4251: “Ogre::RTShader::FFPLighting::mToLight”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(214): warning C4251: “Ogre::RTShader::FFPLighting::mToView”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(216): warning C4251: “Ogre::RTShader::FFPLighting::mVSInPosition”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(218): warning C4251: “Ogre::RTShader::FFPLighting::mVSInNormal”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(220): warning C4251: “Ogre::RTShader::FFPLighting::mInDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(222): warning C4251: “Ogre::RTShader::FFPLighting::mOutDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(224): warning C4251: “Ogre::RTShader::FFPLighting::mOutSpecular”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(226): warning C4251: “Ogre::RTShader::FFPLighting::mDerivedSceneColour”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(228): warning C4251: “Ogre::RTShader::FFPLighting::mLightAmbientColour”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(230): warning C4251: “Ogre::RTShader::FFPLighting::mDerivedAmbientLightColour”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(232): warning C4251: “Ogre::RTShader::FFPLighting::mSurfaceEmissiveColour”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffplighting.h(234): warning C4251: “Ogre::RTShader::FFPLighting::mSurfaceShininess”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(82): warning C4251: “Ogre::RTShader::FFPTexturing::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(103): warning C4251: “Ogre::RTShader::FFPTexturing::TextureUnitParams::mTextureMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPTexturing::TextureUnitParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(105): warning C4251: “Ogre::RTShader::FFPTexturing::TextureUnitParams::mTextureViewProjImageMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPTexturing::TextureUnitParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(107): warning C4251: “Ogre::RTShader::FFPTexturing::TextureUnitParams::mTextureSampler”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPTexturing::TextureUnitParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(109): warning C4251: “Ogre::RTShader::FFPTexturing::TextureUnitParams::mVSInputTexCoord”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPTexturing::TextureUnitParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(111): warning C4251: “Ogre::RTShader::FFPTexturing::TextureUnitParams::mVSOutputTexCoord”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPTexturing::TextureUnitParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(113): warning C4251: “Ogre::RTShader::FFPTexturing::TextureUnitParams::mPSInputTexCoord”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::FFPTexturing::TextureUnitParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(209): warning C4251: “Ogre::RTShader::FFPTexturing::mTextureUnitParamsList”: class“std::vector<Ogre::RTShader::FFPTexturing::TextureUnitParams,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::FFPTexturing::TextureUnitParams
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(116): note: 参见“std::vector<Ogre::RTShader::FFPTexturing::TextureUnitParams,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::FFPTexturing::TextureUnitParams
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(211): warning C4251: “Ogre::RTShader::FFPTexturing::mWorldMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(213): warning C4251: “Ogre::RTShader::FFPTexturing::mWorldITMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(215): warning C4251: “Ogre::RTShader::FFPTexturing::mViewMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(217): warning C4251: “Ogre::RTShader::FFPTexturing::mVSInputNormal”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(219): warning C4251: “Ogre::RTShader::FFPTexturing::mVSInputPos”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(221): warning C4251: “Ogre::RTShader::FFPTexturing::mPSOutDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(223): warning C4251: “Ogre::RTShader::FFPTexturing::mPSDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffptexturing.h(225): warning C4251: “Ogre::RTShader::FFPTexturing::mPSSpecular”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPTexturing”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(117): warning C4251: “Ogre::RTShader::FFPFog::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(146): warning C4251: “Ogre::RTShader::FFPFog::mFogParamsValue”: class“Ogre::Vector<4,Ogre::Real>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(255): note: 参见“Ogre::Vector<4,Ogre::Real>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(151): warning C4251: “Ogre::RTShader::FFPFog::mWorldViewProjMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(153): warning C4251: “Ogre::RTShader::FFPFog::mFogColour”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(155): warning C4251: “Ogre::RTShader::FFPFog::mFogParams”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(157): warning C4251: “Ogre::RTShader::FFPFog::mVSInPos”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(159): warning C4251: “Ogre::RTShader::FFPFog::mVSOutFogFactor”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(161): warning C4251: “Ogre::RTShader::FFPFog::mPSInFogFactor”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(163): warning C4251: “Ogre::RTShader::FFPFog::mVSOutDepth”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(165): warning C4251: “Ogre::RTShader::FFPFog::mPSInDepth”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderffpfog.h(167): warning C4251: “Ogre::RTShader::FFPFog::mPSOutDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::FFPFog”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexperpixellighting.h(67): warning C4251: “Ogre::RTShader::PerPixelLighting::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::PerPixelLighting”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexperpixellighting.h(107): warning C4251: “Ogre::RTShader::PerPixelLighting::mVSOutViewPos”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::PerPixelLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexperpixellighting.h(109): warning C4251: “Ogre::RTShader::PerPixelLighting::mVSOutNormal”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::PerPixelLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(93): warning C4251: “Ogre::RTShader::NormalMapLighting::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(188): warning C4251: “Ogre::RTShader::NormalMapLighting::mNormalMapTextureName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(194): warning C4251: “Ogre::RTShader::NormalMapLighting::mNormalMapSampler”: class“std::shared_ptr<Ogre::Sampler>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\ogretextureunitstate.h(223): note: 参见“std::shared_ptr<Ogre::Sampler>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(198): warning C4251: “Ogre::RTShader::NormalMapLighting::mWorldMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(200): warning C4251: “Ogre::RTShader::NormalMapLighting::mWorldInvRotMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(202): warning C4251: “Ogre::RTShader::NormalMapLighting::mCamPosWorldSpace”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(204): warning C4251: “Ogre::RTShader::NormalMapLighting::mVSWorldPosition”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(206): warning C4251: “Ogre::RTShader::NormalMapLighting::mVSInTangent”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(208): warning C4251: “Ogre::RTShader::NormalMapLighting::mVSTBNMatrix”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(210): warning C4251: “Ogre::RTShader::NormalMapLighting::mVSLocalDir”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(212): warning C4251: “Ogre::RTShader::NormalMapLighting::mPSNormalMapSampler”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(214): warning C4251: “Ogre::RTShader::NormalMapLighting::mVSInTexcoord”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(216): warning C4251: “Ogre::RTShader::NormalMapLighting::mVSOutTexcoord”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexnormalmaplighting.h(218): warning C4251: “Ogre::RTShader::NormalMapLighting::mPSInTexcoord”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::NormalMapLighting”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(99): warning C4251: “Ogre::RTShader::IntegratedPSSM3::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(112): warning C4251: “Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams::mTextureSampler”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(114): warning C4251: “Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams::mInvTextureSize”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(116): warning C4251: “Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams::mWorldViewProjMatrix”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 struct“Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(118): warning C4251: “Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams::mVSOutLightPosition”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(120): warning C4251: “Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams::mPSInLightPosition”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 struct“Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(165): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mShadowTextureParamsList”: class“std::vector<Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(124): note: 参见“std::vector<Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::IntegratedPSSM3::ShadowTextureParams
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(167): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mPSSplitPoints”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(169): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mVSInPos”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(171): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mVSOutPos”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(173): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mVSOutDepth”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(175): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mPSInDepth”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(177): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mPSLocalShadowFactor”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(179): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mPSDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(181): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mPSOutDiffuse”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(183): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mPSSpecualr”: class“std::shared_ptr<Ogre::RTShader::Parameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(75): note: 参见“std::shared_ptr<Ogre::RTShader::Parameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexintegratedpssm3.h(185): warning C4251: “Ogre::RTShader::IntegratedPSSM3::mPSDerivedSceneColour”: class“std::shared_ptr<Ogre::RTShader::UniformParameter>”需要有 dll 接口由 class“Ogre::RTShader::IntegratedPSSM3”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderprerequisites.h(76): note: 参见“std::shared_ptr<Ogre::RTShader::UniformParameter>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexlayeredblending.h(153): warning C4251: “Ogre::RTShader::LayeredBlending::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::LayeredBlending”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexlayeredblending.h(190): warning C4251: “Ogre::RTShader::LayeredBlending::mTextureBlends”: class“std::vector<Ogre::RTShader::LayeredBlending::TextureBlend,std::allocator<_Ty>>”需要有 dll 接口由 class“Ogre::RTShader::LayeredBlending”的客户端使用
+          with
+          [
+              _Ty=Ogre::RTShader::LayeredBlending::TextureBlend
+          ]
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexlayeredblending.h(190): note: 参见“std::vector<Ogre::RTShader::LayeredBlending::TextureBlend,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Ogre::RTShader::LayeredBlending::TextureBlend
+          ]
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(145): warning C4251: “Ogre::RTShader::HardwareSkinning::Type”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Ogre::RTShader::HardwareSkinning”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(164): warning C4251: “Ogre::RTShader::HardwareSkinning::mLinear”: class“Ogre::SharedPtr<Ogre::RTShader::LinearSkinning>”需要有 dll 接口由 class“Ogre::RTShader::HardwareSkinning”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(164): note: 参见“Ogre::SharedPtr<Ogre::RTShader::LinearSkinning>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(165): warning C4251: “Ogre::RTShader::HardwareSkinning::mDualQuat”: class“Ogre::SharedPtr<Ogre::RTShader::DualQuaternionSkinning>”需要有 dll 接口由 class“Ogre::RTShader::HardwareSkinning”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(165): note: 参见“Ogre::SharedPtr<Ogre::RTShader::DualQuaternionSkinning>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(166): warning C4251: “Ogre::RTShader::HardwareSkinning::mActiveTechnique”: class“Ogre::SharedPtr<Ogre::RTShader::HardwareSkinningTechnique>”需要有 dll 接口由 class“Ogre::RTShader::HardwareSkinning”的客户端使用
+  e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(166): note: 参见“Ogre::SharedPtr<Ogre::RTShader::HardwareSkinningTechnique>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(316): warning C4251: “Ogre::RTShader::HardwareSkinningFactory::mCustomShadowCasterMaterialsLinear”: class“Ogre::SharedPtr<Ogre::Material>”需要有 dll 接口由 class“Ogre::RTShader::HardwareSkinningFactory”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(295): note: 参见“Ogre::SharedPtr<Ogre::Material>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(317): warning C4251: “Ogre::RTShader::HardwareSkinningFactory::mCustomShadowCasterMaterialsDualQuaternion”: class“Ogre::SharedPtr<Ogre::Material>”需要有 dll 接口由 class“Ogre::RTShader::HardwareSkinningFactory”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(295): note: 参见“Ogre::SharedPtr<Ogre::Material>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(320): warning C4251: “Ogre::RTShader::HardwareSkinningFactory::mCustomShadowReceiverMaterialsLinear”: class“Ogre::SharedPtr<Ogre::Material>”需要有 dll 接口由 class“Ogre::RTShader::HardwareSkinningFactory”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(295): note: 参见“Ogre::SharedPtr<Ogre::Material>”的声明
+e:\cg\orge\include\ogre\rtshadersystem\ogreshaderexhardwareskinning.h(321): warning C4251: “Ogre::RTShader::HardwareSkinningFactory::mCustomShadowReceiverMaterialsDualQuaternion”: class“Ogre::SharedPtr<Ogre::Material>”需要有 dll 接口由 class“Ogre::RTShader::HardwareSkinningFactory”的客户端使用
+  e:\cg\orge\include\ogre\ogreprerequisites.h(295): note: 参见“Ogre::SharedPtr<Ogre::Material>”的声明
+e:\cg\orge\include\ogre\bites\ogresgtechniqueresolverlistener.h(47): warning C4275: 非 dll 接口 class“Ogre::MaterialManager::Listener”用作 dll 接口 class“OgreBites::SGTechniqueResolverListener”的基
+  e:\cg\orge\include\ogre\ogrematerialmanager.h(76): note: 参见“Ogre::MaterialManager::Listener”的声明
+  e:\cg\orge\include\ogre\bites\ogresgtechniqueresolverlistener.h(47): note: 参见“OgreBites::SGTechniqueResolverListener”的声明
+e:\cg\orge\include\ogre\bites\ogreinput.h(178): warning C4251: “OgreBites::InputListenerChain::mListenerChain”: class“std::vector<OgreBites::InputListener *,std::allocator<_Ty>>”需要有 dll 接口由 class“OgreBites::InputListenerChain”的客户端使用
+          with
+          [
+              _Ty=OgreBites::InputListener *
+          ]
+  e:\cg\orge\include\ogre\bites\ogreinput.h(178): note: 参见“std::vector<OgreBites::InputListener *,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=OgreBites::InputListener *
+          ]
+e:\cg\orge\include\ogre\bites\ogreapplicationcontextbase.h(294): warning C4251: “OgreBites::ApplicationContextBase::mNextRenderer”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“OgreBites::ApplicationContextBase”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\bites\ogreapplicationcontextbase.h(295): warning C4251: “OgreBites::ApplicationContextBase::mAppName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“OgreBites::ApplicationContextBase”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+e:\cg\orge\include\ogre\bites\ogreapplicationcontextbase.h(298): warning C4251: “OgreBites::ApplicationContextBase::mWindows”: class“std::vector<OgreBites::NativeWindowPair,std::allocator<_Ty>>”需要有 dll 接口由 class“OgreBites::ApplicationContextBase”的客户端使用
+          with
+          [
+              _Ty=OgreBites::NativeWindowPair
+          ]
+  e:\cg\orge\include\ogre\bites\ogreapplicationcontextbase.h(297): note: 参见“std::vector<OgreBites::NativeWindowPair,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=OgreBites::NativeWindowPair
+          ]
+e:\cg\orge\include\ogre\bites\ogreapplicationcontextbase.h(301): warning C4251: “OgreBites::ApplicationContextBase::mInputListeners”: class“std::set<std::pair<uint32_t,OgreBites::InputListener *>,std::less<_Kty>,std::allocator<_Kty>>”需要有 dll 接口由 class“OgreBites::ApplicationContextBase”的客户端使用
+          with
+          [
+              _Kty=std::pair<uint32_t,OgreBites::InputListener *>
+          ]
+  e:\cg\orge\include\ogre\bites\ogreapplicationcontextbase.h(300): note: 参见“std::set<std::pair<uint32_t,OgreBites::InputListener *>,std::less<_Kty>,std::allocator<_Kty>>”的声明
+          with
+          [
+              _Kty=std::pair<uint32_t,OgreBites::InputListener *>
+          ]
+e:\cg\assign4\main.cpp(34): warning C4996: 'Ogre::SharedPtr<Ogre::Mesh>::getPointer': 被声明为已否决
+  e:\cg\orge\include\ogre\ogresharedptr.h(89): note: 参见“Ogre::SharedPtr<Ogre::Mesh>::getPointer”的声明
+e:\cg\assign4\main.cpp(154): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\cg\assign4\main.cpp(156): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\cg\assign4\main.cpp(158): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\cg\assign4\main.cpp(186): warning C4244: “参数”: 从“double”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(192): warning C4244: “参数”: 从“double”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(194): warning C4244: “参数”: 从“double”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(196): warning C4244: “参数”: 从“double”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(216): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\cg\assign4\main.cpp(232): warning C4267: “参数”: 从“size_t”转换到“Ogre::uint”，可能丢失数据
+e:\cg\assign4\main.cpp(247): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  e:\cg\assign4\main.cpp(247): note: 请考虑在格式字符串中使用“%zd”
+e:\cg\assign4\main.cpp(226): warning C4996: 'Ogre::SharedPtr<Ogre::Texture>::isNull': 被声明为已否决
+  e:\cg\orge\include\ogre\ogresharedptr.h(91): note: 参见“Ogre::SharedPtr<Ogre::Texture>::isNull”的声明
+e:\cg\assign4\main.cpp(233): warning C4996: 'Ogre::SharedPtr<Ogre::Texture>::isNull': 被声明为已否决
+  e:\cg\orge\include\ogre\ogresharedptr.h(91): note: 参见“Ogre::SharedPtr<Ogre::Texture>::isNull”的声明
+e:\cg\assign4\main.cpp(282): warning C4056: 浮点常量算术溢出
+e:\cg\assign4\main.cpp(313): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\cg\assign4\main.cpp(381): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\cg\assign4\main.cpp(341): warning C4996: 'Ogre::SharedPtr<Ogre::Material>::getPointer': 被声明为已否决
+  e:\cg\orge\include\ogre\ogresharedptr.h(89): note: 参见“Ogre::SharedPtr<Ogre::Material>::getPointer”的声明
+e:\cg\assign4\main.cpp(413): warning C4305: “参数”: 从“double”到“float”截断
+e:\cg\assign4\main.cpp(442): warning C4305: “参数”: 从“double”到“Ogre::Real”截断
+e:\cg\assign4\main.cpp(451): warning C4305: “参数”: 从“double”到“Ogre::Real”截断
+e:\cg\assign4\main.cpp(471): warning C4244: “=”: 从“int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(474): warning C4244: “参数”: 从“const int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(481): warning C4244: “=”: 从“int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(484): warning C4244: “参数”: 从“const int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(492): warning C4244: “=”: 从“int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(495): warning C4244: “参数”: 从“const int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(502): warning C4244: “=”: 从“int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(505): warning C4244: “参数”: 从“const int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(512): warning C4244: “=”: 从“int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(515): warning C4244: “参数”: 从“const int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(522): warning C4244: “=”: 从“int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(525): warning C4244: “参数”: 从“const int”转换到“Ogre::Real”，可能丢失数据
+e:\cg\assign4\main.cpp(571): warning C4305: “参数”: 从“double”到“Ogre::Real”截断
+e:\cg\assign4\main.cpp(575): warning C4305: “参数”: 从“double”到“Ogre::Real”截断
+e:\cg\assign4\main.cpp(579): warning C4305: “参数”: 从“double”到“Ogre::Real”截断
+e:\cg\assign4\main.cpp(583): warning C4305: “参数”: 从“double”到“Ogre::Real”截断
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(173): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=Ogre::Real
+          ]
+  e:\cg\assign4\main.cpp(274): note: 参见对正在编译的函数 模板 实例化“std::pair<bool,Ogre::Real>::pair<bool,int,0>(_Other1 &&,_Other2 &&) noexcept”的引用
+          with
+          [
+              _Other1=bool,
+              _Other2=int
+          ]
+  e:\cg\assign4\main.cpp(274): note: 参见对正在编译的函数 模板 实例化“std::pair<bool,Ogre::Real>::pair<bool,int,0>(_Other1 &&,_Other2 &&) noexcept”的引用
+          with
+          [
+              _Other1=bool,
+              _Other2=int
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(173): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=Ogre::Real
+          ]
+  e:\cg\assign4\main.cpp(318): note: 参见对正在编译的函数 模板 实例化“std::pair<bool,Ogre::Real>::pair<bool,double,0>(_Other1 &&,_Other2 &&) noexcept”的引用
+          with
+          [
+              _Other1=bool,
+              _Other2=double
+          ]
+  e:\cg\assign4\main.cpp(318): note: 参见对正在编译的函数 模板 实例化“std::pair<bool,Ogre::Real>::pair<bool,double,0>(_Other1 &&,_Other2 &&) noexcept”的引用
+          with
+          [
+              _Other1=bool,
+              _Other2=double
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(16707566): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(16707566): note: 参见对正在编译的函数 模板 实例化“void std::_Invoker_pmf_pointer::_Call<_Memptr,_Ty,Ogre::Camera*,unsigned int*,unsigned __int64,unsigned __int64,unsigned __int64>(_Decayed,_Ty1 &&,Ogre::Camera *&&,unsigned int *&&,unsigned __int64 &&,unsigned __int64 &&,unsigned __int64 &&) noexcept(false)”的引用
+          with
+          [
+              _Memptr=void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int),
+              _Ty=RayTracing *,
+              _Decayed=void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int),
+              _Ty1=RayTracing *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(832): note: 参见对正在编译的函数 模板 实例化“void std::invoke<const _Memptr&,_Ty,Ogre::Camera*,unsigned int*,unsigned __int64,unsigned __int64,unsigned __int64>(_Callable,_Ty &&,Ogre::Camera *&&,unsigned int *&&,unsigned __int64 &&,unsigned __int64 &&,unsigned __int64 &&) noexcept(false)”的引用
+          with
+          [
+              _Memptr=void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int),
+              _Ty=RayTracing *,
+              _Callable=void (__cdecl RayTracing::* const &)(Ogre::Camera *,Ogre::uint32 *,int,int,int)
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(16707566): note: 参见对正在编译的函数 模板 实例化“void std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>::operator ()<_Ty,Ogre::Camera*,unsigned int*,unsigned __int64,unsigned __int64,unsigned __int64>(_Ty &&,Ogre::Camera *&&,unsigned int *&&,unsigned __int64 &&,unsigned __int64 &&,unsigned __int64 &&) noexcept(false) const”的引用
+          with
+          [
+              _Ty=RayTracing *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(16707566): note: 参见对正在编译的函数 模板 实例化“void std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>::operator ()<_Ty,Ogre::Camera*,unsigned int*,unsigned __int64,unsigned __int64,unsigned __int64>(_Ty &&,Ogre::Camera *&&,unsigned int *&&,unsigned __int64 &&,unsigned __int64 &&,unsigned __int64 &&) noexcept(false) const”的引用
+          with
+          [
+              _Ty=RayTracing *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(16707566): note: 参见对正在编译的函数 模板 实例化“void std::_Invoker_functor::_Call<_Ty,RayTracing*,Ogre::Camera*,unsigned int*,unsigned __int64,unsigned __int64,unsigned __int64>(_Callable &&,RayTracing *&&,Ogre::Camera *&&,unsigned int *&&,unsigned __int64 &&,unsigned __int64 &&,unsigned __int64 &&) noexcept(false)”的引用
+          with
+          [
+              _Ty=std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,
+              _Callable=std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(237): note: 参见对正在编译的函数 模板 实例化“void std::invoke<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing*,Ogre::Camera*,Ogre::uint32*,unsigned __int64,unsigned __int64,unsigned __int64>(_Callable &&,RayTracing *&&,Ogre::Camera *&&,Ogre::uint32 *&&,unsigned __int64 &&,unsigned __int64 &&,unsigned __int64 &&) noexcept(false)”的引用
+          with
+          [
+              _Callable=std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(246): note: 参见对正在编译的函数 模板 实例化“void std::_LaunchPad<_Target>::_Execute<0,1,2,3,4,5,6>(std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64> &,std::integer_sequence<unsigned __int64,0,1,2,3,4,5,6>)”的引用
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>,std::default_delete<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(245): note: 参见对正在编译的函数 模板 实例化“void std::_LaunchPad<_Target>::_Execute<0,1,2,3,4,5,6>(std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64> &,std::integer_sequence<unsigned __int64,0,1,2,3,4,5,6>)”的引用
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>,std::default_delete<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(242): note: 编译 类 模板 成员函数 "void std::_LaunchPad<_Target>::_Run(std::_LaunchPad<_Target> *) noexcept" 时
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>,std::default_delete<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(230): note: 参见对正在编译的函数 模板 实例化“void std::_LaunchPad<_Target>::_Run(std::_LaunchPad<_Target> *) noexcept”的引用
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>,std::default_delete<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thr\xthread(257): note: 参见对正在编译的 类 模板 实例化 "std::_LaunchPad<_Target>" 的引用
+          with
+          [
+              _Target=std::unique_ptr<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>,std::default_delete<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\thread(46): note: 参见对正在编译的函数 模板 实例化“void std::_Launch<std::unique_ptr<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>,std::default_delete<_Ty>>>(_Thrd_t *,_Target &&)”的引用
+          with
+          [
+              _Ty=std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>,
+              _Target=std::unique_ptr<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>,std::default_delete<std::tuple<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing *,Ogre::Camera *,Ogre::uint32 *,unsigned __int64,unsigned __int64,unsigned __int64>>>
+          ]
+  e:\cg\assign4\main.cpp(254): note: 参见对正在编译的函数 模板 实例化“std::thread::thread<std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>,RayTracing*,Ogre::Camera*&,Ogre::uint32*,size_t&,size_t&,size_t&,void>(_Fn &&,RayTracing *&&,Ogre::Camera *&,Ogre::uint32 *&&,size_t &,size_t &,size_t &)”的引用
+          with
+          [
+              _Fn=std::_Mem_fn<void (__cdecl RayTracing::* )(Ogre::Camera *,Ogre::uint32 *,int,int,int)>
+          ]
+  正在生成代码
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(172): warning C4756: 常量算法中溢出
+  4 of 717 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> E:\CG\Assign4\x64\Release\work1.exe
+  已复制         1 个文件。

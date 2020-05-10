@@ -1,0 +1,69 @@
+vertex_program Examples/EdgeHighLightVS hlsl
+{
+    // source "D:\\CG\\Assign3\\edge.cg"
+    source edge.hlsl
+    entry_point edgeHighLight_vp
+    target vs_1_1
+    
+    default_params
+    {
+        param_named_auto worldViewProj worldviewproj_matrix
+    }
+}
+
+fragment_program Examples/EdgeHighLightPS hlsl
+{
+    source edge.hlsl
+    entry_point edgeHighLight_fp
+    target ps_2_0
+    
+    default_params
+    {
+    }
+}
+// fragment_program test hlsl
+// {
+//     source D:\CG\Assign3\edge.cg
+//     entry_point main_fp
+//     target ps_2_0 arbfp1
+// }
+
+ 
+material Ogre/mytest
+{
+    technique 
+    {
+        pass
+        {
+            cull_hardware anticlockwise
+            vertex_program_ref Examples/EdgeHighLightVS
+            {
+            }
+ 
+            fragment_program_ref Examples/EdgeHighLightPS
+            {
+            }
+ 
+            // texture_unit
+            // {
+            //     texture tusk.jpg
+            // }
+        }
+        pass
+        {
+            cull_hardware none
+            // // vertex_program_ref Examples/EdgeHighLightVS
+            // // {
+            // // }
+ 
+            // // fragment_program_ref Examples/EdgeHighLightPS
+            // // {
+            // // }
+ 
+            texture_unit
+            {
+                texture tusk.jpg
+            }
+        }
+    }
+}

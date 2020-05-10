@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a32777c747823043bc564cd86144d7b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - renderFromPosition: {instanceID: 0}
+  - cubemap: {fileID: 8900000, guid: 76ef4eaac3e51bc40bf267ed11b3d4da, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
